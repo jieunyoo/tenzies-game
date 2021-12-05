@@ -33,6 +33,14 @@ main {
     text-align: center;
 }
 
+.rolls-style {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    margin-top: 0;
+    text-align: center;
+	margin-top:20px;
+}
+
 .dice-container {
     display: grid;
     grid-template: auto auto / repeat(5, 1fr);
